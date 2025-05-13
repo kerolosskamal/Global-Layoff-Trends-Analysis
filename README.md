@@ -158,7 +158,6 @@ SELECT company, total_laid_off
 FROM world_layoffs.layoffs_staging
 ORDER BY 2 DESC
 LIMIT 5;
--- now that's just on a single day
 ```
 ## Companies with the most Total Layoffs
 ```sql
