@@ -1,6 +1,6 @@
-# Global-Layoff-Trends-Analysis
+# Global Layoff Trends Analysis
 
-- Utilized SQL to Conduct data cleaning and exploratory data analysis (EDA) on global company layoff datasets.
+- In this project, I utilized SQL to Conduct data cleaning and exploratory data analysis (EDA) on global company layoff datasets.
 
 ## Responsibilities included
 - removing duplicates
